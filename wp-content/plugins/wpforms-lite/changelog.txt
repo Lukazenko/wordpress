@@ -1,5 +1,18 @@
 == Changelog ==
 
+= 1.4.3 =
+- Added: Early filter for form data before form output, `wpforms_frontend_form_data`
+- Changed: Standardize and tweak modal window button styles
+- Changed: Default mail notification settings are now sent "from" the site administrator email; user email is used in Reply-To where applicable (to hopefully improve email deliverability)
+- Changed: Removed "Hide form name and description" form setting as it was a common source or confusion
+- Fixed: Site cache being flushed when it shouldn't have been, affecting performance in some scenarios
+- Fixed: Country, state, months and days not properly exposed to i18n
+- Fixed: CSV export dates not properly using i18n
+- Fixed: WPForms custom post types omitting labels
+- Fixed: Smart Tag value encoding issues with email notifications
+- Fixed: Infinite recursion issue when using Dynamic Values option
+- Fixed: PHP notice in form builder
+
 = 1.4.2.2 =
 - Changed: Announcement feed data
 
