@@ -1,12 +1,14 @@
 </div>
 
+<div class="container">
 		<div class="row">
 			<div class="col-lg-12 footer"><h1>asd</h1></div>
 		</div>
-		
+		</div>
+			
 	</div>
 
-	<?php wp_footer(); ?>
+
 	
 
 
