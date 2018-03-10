@@ -1,0 +1,61 @@
+
+
+.header_kast {
+  background-color: rgb(255, 0, 0);
+  width: 1109px;
+  height: 152px;
+}
+
+#header_text {
+	text-align: center;
+
+}
+
+
+.parem_kast {
+  background-color: rgb(46, 146, 63);
+  width: 540px;
+  height: 237px;
+}
+
+.vasak_kast {
+  background-color: rgb(46, 49, 146);
+  width: 540px;
+  height: 240px;
+}
+
+
+.vaike_kast {
+  background-color: rgb(124, 146, 46);
+  width: 254px;
+  height: 153px;
+}
+
+
+.footer {
+  background-color: rgb(247, 14, 184);
+  width: 1109px;
+  height: 1195px;
+}
+
+.vahe1 {
+  width: 1109px;
+  height: 118px;
+}
+
+.vahe2 {
+  width: 1109px;
+  height: 158px;
+}
+
+.mytext {
+  font-size: 72px;
+  font-family: "Viner Hand ITC";
+  color: rgb(0, 2, 0);
+  line-height: 1.2;
+  text-align: left;
+}
+
+
+
+
