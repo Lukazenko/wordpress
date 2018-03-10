@@ -4,8 +4,7 @@
 	<title>Test</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url');?">
-<?php wp_head(); ?>
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ">
 	<?php wp_head(); ?>
 
 </head>
