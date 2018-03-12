@@ -4,7 +4,7 @@
 	<title>Test</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>">
 	<?php wp_head(); ?>
 
 </head>
@@ -29,7 +29,7 @@
 					<a class="navbar-brand" href="Index.html">Testsite</a>
 				</div>
 				<ul class="nav navbar-nav">
-      				<li class="active"><a href="Index.html">Home</a></li>
+      				<li class="active"><a href="index.html">Home</a></li>
       				<li><a href="Sisu1.html">Page 1</a></li>
 			      	<li><a href="Sisu2.html">Page 2</a></li>
 			    </ul>
