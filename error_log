@@ -4,3 +4,6 @@
 [10-Mar-2018 14:31:27 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/veikkokiisiktkhk/public_html/wordpress/wp-content/themes/veikkotheme/header.php on line 8
 [10-Mar-2018 15:48:26 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/veikkokiisiktkhk/public_html/wordpress/wp-content/themes/veikkotheme2/header.php on line 7
 [10-Mar-2018 15:49:43 UTC] PHP Parse error:  syntax error, unexpected 'container' (T_STRING) in /home/veikkokiisiktkhk/public_html/wordpress/wp-content/themes/veikkotheme2/header.php on line 14
+[10-Mar-2018 16:27:56 UTC] PHP Parse error:  syntax error, unexpected 'bloginfo' (T_STRING) in /home/veikkokiisiktkhk/public_html/wordpress/wp-content/themes/veikkotheme2/index.php on line 9
+[10-Mar-2018 16:27:59 UTC] PHP Parse error:  syntax error, unexpected 'bloginfo' (T_STRING) in /home/veikkokiisiktkhk/public_html/wordpress/wp-content/themes/veikkotheme2/index.php on line 9
+[10-Mar-2018 16:30:40 UTC] PHP Parse error:  syntax error, unexpected 'bloginfo' (T_STRING) in /home/veikkokiisiktkhk/public_html/wordpress/wp-content/themes/veikkotheme2/index.php on line 9
